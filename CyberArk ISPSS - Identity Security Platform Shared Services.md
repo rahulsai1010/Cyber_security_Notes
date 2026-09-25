@@ -1,0 +1,24 @@
+- The CyberArk ISPSS provides a unified experience for both end user and admin
+- The platform ensures secure, role based access to CyberArk SaaS with streamlined and enhanced user experience.
+- Utilizes Single sign on and MFA
+- 4 Main capabilities :
+	- Single sign on - single set of credentials for all the managed application
+	- MFA - provides additional layer of security
+	- Identity lifecycle management - Automate the joiner, mover and leaver within the org's. also ensures right access is being provided.
+	- Directory Services - enables admins to create user and groups
+- all of the above ensures the zero trust policy
+- 3 layers of security to access their application:
+	- Identity is verified
+	- device is validated
+	- access is intelligently is limited as per role
+- ISPSS act as middleware for other cyberArk platforms such as :
+	- PAM
+	- DPA
+	- SWS
+- CyberArk ISPSS equips with all the tools needed for mange identity, access and application within the org's
+- Additional Services:
+	- Centralized Directory Services : this solutions offers management of access across all the CyberArk tools, consolidating them into a single, unified portal and user directory
+		- Connector Management : it is a SaaS platform that serves as a interface between backend services and customer environment
+	- Identity Security Intelligence : automatically detects multi-contextual abnormal user behavior and misuse privileged access.
+	- provides realtime alerts
+- Audits : this service provides audit trails for activities, events, and sessions that are performed by any integrated services on the shared services platform 

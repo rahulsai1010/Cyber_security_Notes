@@ -1,0 +1,6 @@
+- CyberArk Identity solution provides security platforms secures access for everyone , including workforce, IT, developers and machine identities.
+- 4 main pillars of Identity Security:
+	- Security First Access Management : includes modern and secure access capabilities
+	- Intelligent privilege controls: dynamically assign privileges and provision access for optimal security tailored to each identity needs.
+	- Flexible Governance and Administration: Offers flexible governance and administration capabilities across all identities within an organization, allowing for efficient management and oversight of access privileges
+	- Identity security intelligence : Automatically detects and alert on multi contextual anomalous user behavior and privileged access misuse
