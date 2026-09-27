@@ -1,0 +1,15 @@
+- as browsers are highly targeted by cybercriminals . posing significant threat
+- the Secure Browser is a identity focused web browser designed for enhanced security for the org's
+- it has :
+	- unparalleled security
+	- unmatched productivity
+	- ultimate privacy
+- access everything from one place
+- boost security and visibility
+- control access with predefined rules
+- secure remote workers
+- stream line compliance
+- unleash workforce activity
+- CISP is integrated 
+- the access to the cookies is disabled, so session hijacking is not possible
+- 

@@ -1,0 +1,3 @@
+- It is a set of capabilities in CyberArk Security platform that helps bolster an org's security posture with visibility across all domains
+- it is designed to reduce risk efficiently and effectively while improving an org's cyber resilience in the face of cyber attacks
+- Chat bot - helps to make any request in a simplified natural language

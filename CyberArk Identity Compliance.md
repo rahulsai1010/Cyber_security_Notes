@@ -1,0 +1,7 @@
+- provides tools for making sure the user access across the org's is in compliance with the policies and needs.
+- makes it easier to enforce and demonstrate compliance by continuously discovering access, streamlining certification, and providing comprehensive identity analytics.
+- we can revoke or certify the privileges of users in which the certification campaign is going on 
+- as an admin we can run the campaign. for eg:- start a campaign for users who are using the linux servers.
+- the campaigns should be recurring, as many of the org's will have compliance routines that they have to follow every quarter or annually.
+- the progress can be seen for the admin
+- can send reminder to the users/managers for the campaign

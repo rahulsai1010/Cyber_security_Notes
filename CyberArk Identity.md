@@ -1,0 +1,8 @@
+- keeps the threat out and continue to empower the workforce
+- key features of CyberArk workforce identity:
+	- Workforce Password Management: automatically capture and store credentials in the CyberArk secure vault and launch all business app from a single intuitive portal. this also enforces strong control over the business application credentials, including the layered access protection and role based access control.
+	- Lifecycle Management: Streamline management of application access requests, creation of app accounts, and termination of access. create, update, deactivate account based on roles. provides with range of tools. main tool is transferring of identity from external HCM application to CyberArk.
+	- Adaptive MFA and SSO : 
+	- App Gateway: Secure access to on-prem apps without the use of VPN, making code changes or deploying additional infrastructure
+	- User behavior Analytics : uses AI powered analytics engine to monitor the context of access requests and generate actionable insights.
+	- 

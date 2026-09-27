@@ -1,0 +1,12 @@
+- allows org's to eliminate manual identity management work by orchestrating identity data, events, and processes. 
+- with the flow, org's can stop wasting IT on onboarding and offboarding users and all the user related activities like if role is changed then all the system gets the changed role.
+- identity events creation and synchronization of data across application - main for flow
+- more secure
+- automation for risk reduction visibility and security.
+- identity lifecycle management - automation
+- adaptive access control - automatically adapt user access accordingly.
+- empowers org's of operational efficiencies
+- creating a flow:
+	- drag elements from canvas
+	- search for desired element - drag to the flow
+	- condition can be added if needed.

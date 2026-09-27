@@ -1,0 +1,22 @@
+- SWS cloud based service that gives customer the ability to monitor and record user activity within the web application
+- 4 robust security layers:
+	- step recording - session recording, fast event analysis :
+		- STEPPER approach - takes screenshot of the steps that is being dine by the user and use the same as evidence for security investigation
+		- saves with action type like clicked or types.
+		- gives a session summary of every user
+	- continues Authentication - continues user identification, ensures authorized access.
+		- this monitor user activity and behaves accordingly. like if the user steps away from the laptop this detects it and locks away the session. to continue biometric and qr scanning is required. or timeout activity will placed for apps
+	- Session protection - blocks copying and downloading, isolates session for security
+		- blocking downloads, disabling clipboards
+	- session control - creates granular rules, requires MFA for sensitive info
+		- define tailored rules.
+		- prevents to misuse of controls
+		- restricts harmful activities
+
+SWS user flow and enforcement
+- process starts from login using biometric 
+- MFA is also available for login
+- can launch any application
+- also validated with other info(an extension is mandatory for the session to continue)
+- notified session is monitored.
+- at the end of the session the recorded session is uploaded to cloud for storage
