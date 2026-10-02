@@ -1,0 +1,14 @@
+- Secures 3rd party access to critical internal resources with full session isolation, monitoring and audit capabilities without the need for VPNs, passwords or agents
+- Uses zero trust access and biometric authentication
+- it is a SaaS solution
+- VPN less
+- password less
+- only at the time of access - eliminating the identity management
+- remote access portal - 
+- the remote access portal uses the same to access the on-prem at the customer
+- Manual vendor invitation:
+	- invite should be given
+	- tenant admin, delegated company user, delegated user with permission 
+	- both single or multiple vendors using an excel with specified format
+	- access time frame can be provided so that after the time frame the vendor will not be able to access 
+	- can enable option to invite other vendor by a vendor

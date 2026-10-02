@@ -1,0 +1,39 @@
+- PAM is a set of cybersecurity strategies and technologies designed to control, monitor and secure privileged user access to org's critical systems and sensitive information's.
+- privileged users have elevated permissions that go beyond those of a typical users.
+- the key of security is to secure infrastructure inorder to do that we need to secure privileged accounts(that can harm the org's in different ways like can impact business services)
+- privileged accounts can become a huge attack surface
+- privileged accounts include:
+	- system admin
+	- third party and service provider accounts
+	- applications
+	- selected business users
+	- social networking account managers
+- Cyber attack chain:
+	- bad actors can be in internal or external
+	- credential theft using any of the method like phishing.
+	- use that access to leverage across an org's to a privileged access
+	- once the account is hacked, they will leverage their access and carry on with the cyber crime
+- CyberArc CPC is the solution for the above - centered around 3 understandable risks:
+	- prevent credential theft
+	- stop lateral and vertical movement
+	- limit privilege escalation and abuse
+- CyberArk Privilege Access solution:
+	- the privilege escalation will be stopped by the cyberArk solution
+	- privilege cloud is established on every privileged accounts
+	- targeted detection
+	- proactive protection
+	- session isolation blocks the malware
+- privileged cloud solution features :
+	- manage privileged accounts
+	- discover and manage credentials
+	- isolate credentials and sessions
+	- record, audit, and monitor privileged sessions
+- CyberArk PAM can be deployed as SaaS or On-prem
+- SaaS:
+	- ease of use
+	- automatic updates
+	- high scalability with lower upfront cost
+- Self hosted PAM:
+	- greater control over security
+	- customization
+	- compliance management

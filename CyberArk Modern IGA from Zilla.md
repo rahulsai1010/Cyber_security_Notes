@@ -1,0 +1,20 @@
+- in 2025 CyberArk acquired zilla for the IGA - Identity Governance and Administration
+- IGA helps org's to manage and control user access to systems and data. it ensures right people have right access at the right time.
+- this improves security, compliance with HIPAA and reduces manual work
+- Modern IGA contains:
+	- Automated role management - ensures employees have minimum access needed
+	- pre approved access- give access to pre defined policies to new joiners without waiting for the manager approval
+	- identity mapping - check for all the accounts which are dead or orphaned to remove excess access
+	- risk reduction and proactive policies - without waiting for compliance audits , the system automatically fixes the misconfigurations.
+	- seamless app integration - every app is governed from day one with help of API integration.
+- the zilla gives search option for all the apps that is having misconfiguration or any of the function that is disabled.
+- application owners can view or edit permissions
+- also shows the users access count on for all the application
+- also can be filtered with the department or team wise
+- birthright access (new joiner access) - approved automatically
+- once there is a leaver - the revoke access request goes to manager for appraoval
+- the approval to manager goes with all the application that is to be revoked or keep as it is
+- access reviews tab shows the progress of user access review campaign 
+- tasks are automatically assigned to application owners for review
+- for editing the campaign - what to review, who reviews and campaign options like what the comments are required
+- once the campaign is complete - a detailed report is gone t the auditor as well as the application owners.
